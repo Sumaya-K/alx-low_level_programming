@@ -2,10 +2,10 @@
 /**
  *this script to prniy the followed sentecnce
  */
-char main()
+char main(void)
 {
 	char print[] = "\"Programming is like building a multilingual puzzle";
-		puts(print);
+	puts(print);
 
 	return (0);
 }
