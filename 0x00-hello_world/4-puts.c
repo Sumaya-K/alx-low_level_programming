@@ -1,6 +1,9 @@
 #include <stdio.h>
+
 /**
- *this script to prniy the followed sentecnce
+ * main - Entry point
+ *
+ * Return: always 0 (Success)
  */
 int main(void)
 {
