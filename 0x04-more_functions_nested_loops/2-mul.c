@@ -5,13 +5,11 @@
  * @a: first integer
  * @b: second interger
  *
- * Return: 0
+ * Return: multiplication result
  */
 
 int mul(int a, int b)
 {
-	int a;
-	int b;
 
 	return (a * b);
 
